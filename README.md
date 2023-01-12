@@ -8,7 +8,6 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
 
 
 <h2>Languages</h2>
-<hr>
 <h3>Frontend Development</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e44c27?style=flat-square&logo=html5&logoColor=white" />
