@@ -33,6 +33,7 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-41c4ff?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-45b8d8?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="WeChat" src="https://img.shields.io/badge/-WeChat-19b85d?style=flat-square&logo=wechat&logoColor=white" />
 </p>
 
 <h3>Database</h3>
