@@ -8,7 +8,7 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
 
 
 <h2>Languages</h2>
-<h3>Frontend Development</h3>
+<h3>● Frontend Development</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e44c27?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-d1b514?style=flat-square&logo=babel&logoColor=white" />
 </p>
 
-<h3>Backend Development</h3>
+<h3>● Backend Development</h3>
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-58a722?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3876ac?style=flat-square&logo=python&logoColor=white" />
@@ -29,21 +29,21 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
   <img alt="Express" src="https://img.shields.io/badge/-Express-212121?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-<h3>Mobile App Development</h3>
+<h3>● Mobile App Development</h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-41c4ff?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-45b8d8?style=flat-square&logo=dart&logoColor=white" />
   <img alt="WeChat" src="https://img.shields.io/badge/-WeChat-19b85d?style=flat-square&logo=wechat&logoColor=white" />
 </p>
 
-<h3>Database</h3>
+<h3>● Database</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-449945?style=flat-square&logo=mongodb&logoColor=white" /> 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-3E6E93?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-cc4028?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
-<h3>Software</h3>
+<h3>● Software</h3>
 <p>
   <img alt="Adobe Photoshop	" src="https://img.shields.io/badge/-Adobe Photoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6907?style=flat-square&logo=postman&logoColor=white" />
@@ -52,7 +52,7 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h3>System</h3>
+<h3>● System</h3>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078d5?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-430098?style=flat-square&logo=linux&logoColor=white" />
