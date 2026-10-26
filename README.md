@@ -6,6 +6,7 @@ Once I was a <b>front-end engineer</b>, now I am a <b>full-stack engineer</b>. <
 Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricerYang)
 
 <h2>Languages</h2>
 <h3>● Frontend Development</h3>
