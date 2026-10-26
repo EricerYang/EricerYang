@@ -8,7 +8,7 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricerYang)
 
-<h2>Languages</h2>
+<!-- <h2>Languages</h2>
 <h3>● Frontend Development</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e44c27?style=flat-square&logo=html5&logoColor=white" />
@@ -58,7 +58,7 @@ Currently living in <b>China</b>. <img src="https://cdn-icons-png.flaticon.com/5
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078d5?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-430098?style=flat-square&logo=linux&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-B7178C?style=flat-square&logo=macos&logoColor=white" />
-</p>
+</p> -->
 
 
 <h2>Open source projects</h2>
